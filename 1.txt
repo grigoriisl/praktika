@@ -1,15 +1,16 @@
 #include <iostream>
 #include <vector>
 
-using namespace std; //glavnaya
+using namespace std; //glavnaya, no minimum uzhe
 int main(){
 	int n=0;
 	cin  >> n;
 	vector<int> Ve[n];
 	for (int i=0; i<n;i++) cin >> Ve[i];
+	min = Ve[0]
 	for (int i=0; i<n; i++)
 	{
-		if (max < Ve[i]) Ve[i] = max;
+		if (int min < Ve[i]) Ve[i] = min;
 	{
 	return 0;
 {
