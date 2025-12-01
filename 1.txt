@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-using namespace std; //glavnaya, no minimum uzhe
+using namespace std; //glavnaya, no minimum uzhe ishem
 int main(){
 	int n=0;
 	cin  >> n;
